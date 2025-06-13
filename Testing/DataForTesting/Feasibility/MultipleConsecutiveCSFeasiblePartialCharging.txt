@@ -1,0 +1,14 @@
+StringID   Type       x          y          demand     ReadyTime  DueDate    ServiceTime 
+D0         d          40.0       50.0       0.0        0.0        511.0      0.0        1
+S1         f          51.0       47.0       0.0        11.0       12.0       0.0        3
+S2         f          69.0       53.0       0.0        30.0       283.0      0.0        4
+C5         c          63.0       52.0       30.0       387.0      388.0      100.0      11
+C6         c          71.0       62.0       10.0       182.0      183.0      90.0       12
+C7         c          72.0       80.0       50.0       74.0       75.0       90.0       13
+
+Q Vehicle fuel tank capacity /79.69/
+C Vehicle load capacity /200.0/
+r fuel consumption rate /1.0/
+g inverse refueling rate /3.39/
+v average Velocity /1.0/
+m number of vehicles /3/

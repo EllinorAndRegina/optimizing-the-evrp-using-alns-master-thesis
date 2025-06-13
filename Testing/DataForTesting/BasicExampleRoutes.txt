@@ -1,0 +1,17 @@
+routes_version_1 = [evrp_data.nodes[[1, 10, 15, 3, 9, 16, 1]], 
+    evrp_data.nodes[[1, 13, 5, 7, 6, 12, 1]], 
+    evrp_data.nodes[[1, 18, 14, 11, 4, 8, 1]], 
+    evrp_data.nodes[[1, 17, 2, 1]]
+    ]
+
+routes_version_2 = [evrp_data.nodes[[1, 10, 15, 9, 1]], 
+    evrp_data.nodes[[1, 2, 17, 12, 6, 16, 1]], 
+    evrp_data.nodes[[1, 18, 14, 4, 11, 1]], 
+    evrp_data.nodes[[1, 13, 7, 5, 8, 1]],
+    ]
+
+routes_version_3 = [evrp_data.nodes[[1, 10, 15, 1]], 
+    evrp_data.nodes[[1, 2, 17, 3, 9, 16, 1]], 
+    evrp_data.nodes[[1, 13, 7, 6, 12, 1]], 
+    evrp_data.nodes[[1, 18, 14, 11, 4, 8, 1]]
+    ]
